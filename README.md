@@ -9,8 +9,7 @@ This project processes numeric data from an input file, performs calculations, a
 - Generates a report summarizing the processing activity.
 
 ## How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/ESL-Aaron/Software_Foundations
+1. Download this repository.
+
 2. Run the run_script.bat or run the Python script:
  python data_processing.py input_data.txt
