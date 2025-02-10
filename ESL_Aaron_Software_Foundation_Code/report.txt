@@ -1,0 +1,24 @@
+Data Processing Report
+======================
+Execution Date: 2025-02-10 16:41:06
+Input File: input_data.txt
+Output File: output_data.txt
+
+Number to Animal Mapping:
++--------+-------------+
+| Number |    Animal   |
++--------+-------------+
+| 10     | Donkey      |
+| 18     | Dog         |
+| 21     | Goat        |
+| 31     | Camel       |
+| 33     | Snake       |
+| 45     | Elephant    |
+| 59     | Alligator   |
+| 80     | Turkey      |
++--------+-------------+
+
+Total of Values: 297.0
+Average of Values: 37.125
+======================
+End of Report

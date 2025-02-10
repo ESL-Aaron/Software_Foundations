@@ -1,0 +1,17 @@
+
+Number to Animal Mapping:
++--------+-------------+
+| Number |    Animal   |
++--------+-------------+
+| 10     | Donkey      |
+| 18     | Dog         |
+| 21     | Goat        |
+| 31     | Camel       |
+| 33     | Snake       |
+| 45     | Elephant    |
+| 59     | Alligator   |
+| 80     | Turkey      |
++--------+-------------+
+|Total:  | 297.0       |
+|Average:| 37.125      |
++--------+-------------+
